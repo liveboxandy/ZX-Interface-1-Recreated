@@ -5,7 +5,9 @@ This is Kicad 7 project of the Sinclair ZX Interface 1 that uses the same routin
 A raw board was scanned and the top and bottom side images were imported into Kicad. This gave the board outline 
 along with the position of components and the track layout.
 The schematic available from the Service Guide was then redrawn in Kicad and used to recreate the PCB and to verify that the routing was correct.
+
 The Bill of Materials from the Service Guide was used to select suitable footprints. Some parts could not be located and so suitable repalcements were used.
+
 Q11 does not have a place on the Sinclair PCB as it was an afterthought. To stop Kicad moaning I have placed it within the footprint of R2 which is not fitted.
 
 This is the result of that exercise.
