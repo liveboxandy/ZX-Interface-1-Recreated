@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ZX Bits")(type "KiCad")(uri "W:/Emulators/Spectrum Repair/ZX Interface 1/Interface 1 Recreated")(options "")(descr ""))
+  (lib (name "ZX Spectrum 3.5mm")(type "KiCad")(uri "${KIPRJMOD}/ZX Spectrum 3.5mm.pretty")(options "")(descr ""))
+)
