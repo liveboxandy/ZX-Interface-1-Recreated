@@ -6,6 +6,7 @@ A raw board was scanned and the top and bottom side images were imported into Ki
 along with the position of components and the track layout.
 The schematic available from the Service Guide was then redrawn in Kicad and used to recreate the PCB and to verify that the routing was correct.
 The Bill of Materials from the Service Guide was used to select suitable footprints. Some parts could not be located and so suitable repalcements were used.
+Q11 does not have a place on the Sinclair PCB as it was an afterthought. To stop Kicad moaning I have placed it within the footprint of R2 which is not fitted.
 
 This is the result of that exercise.
 
@@ -14,4 +15,4 @@ It appears that a 75MB is too be for uploading so I split it into 20MB chunks.
 
 Sometimes Kicad complains that there is an issue with the edge.cuts file. Running DRC will show what it doesn't like and it's easy to fix so that the board outline is a closed shape.
 
-
+Have fun.
