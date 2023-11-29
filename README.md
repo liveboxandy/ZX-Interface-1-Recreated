@@ -18,3 +18,5 @@ It appears that a 75MB is too be for uploading so I split it into 20MB chunks.
 Sometimes Kicad complains that there is an issue with the edge.cuts file. Running DRC will show what it doesn't like and it's easy to fix so that the board outline is a closed shape.
 
 Have fun.
+
+Comments - Good Bad or indifferent on https://www.facebook.com/groups/zxspa/
