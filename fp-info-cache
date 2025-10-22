@@ -1,61 +1,131 @@
-15275835221613
-Spectrum
+33229932044836
+Mod
+C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=12.5mm, length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 12.5mm  length 3.8mm diameter 2.6mm
+0
+2
+2
+Mod
+C_Axial_L17.0mm_D6.5mm_P20.00mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=20mm, length*diameter=17*6.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 20mm  length 17mm diameter 6.5mm
+0
+2
+2
+Mod
 Capacitor Ceramic
 Capacitor Ceramic 
 Capacitor THT
 0
 2
 2
-Spectrum
-DIOAD1068W53L380D172
-1N4148
-Diode
+Mod
+Crystal_HC18-U_Horizontal
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
 0
 2
 2
-Spectrum
+Mod
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Mod
+DIP-24_W15.24mm
+24-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+Mod
+DIP-40_W15.24mm
+40-lead though-hole mounted DIP package, row spacing 15.24mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+40
+40
+Mod
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 15.98mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 15.98mm
+0
+11
+10
+Mod
+D_DO-35_SOD27_P7.62mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+Mod
+D_DO-41_SOD81_P10.16mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=5.2*2.7mm^2, https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Mod
 Diode 1N
 1N4148
 Diode
 0
 2
 2
-Spectrum
+Mod
+Edge_Connector_To_AddOn
+56 Pin PCB Edge Connector From Spectrum
+
+0
+54
+54
+Mod
+Edge_Connector_Up_To_Spectrum
+56 Pin Custom IF1 Card Edge Connector To Spectrum
+Spectrum Connector
+0
+54
+54
+Mod
+L_Axial_L12.8mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC
+Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, length*diameter=12.8*5.8mm^2, Fastron, HBCC, http://www.fastrongroup.com/image-show/18/HBCC.pdf?type=Complete-DataSheet&productType=series
+Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 12.8mm diameter 5.8mm Fastron HBCC
+0
+2
+2
+Mod
 PMBT2222A_215
 SOT23(TO-236AB) 
 Transistor BJT NPN
 0
 3
 3
-Spectrum
+Mod
 Resistor_0.25W
 Resistor 0.25W 
 Resistor THT
 0
 2
 2
-Spectrum
-Spectrum_Edge_Connector
-56 Pin Custom Card Edge Connector
-Spectrum Connector
+Mod
+TO-92L_Inline_Wide
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Inline Wide transistor
 0
-54
-54
-Spectrum
-ZX 28+28 Vert 392-056-558-208
-392-056-558-208-3
-Connector
+3
+3
+Mod
+ZX Spectrum 3.5mm Skt
+TRS 3.5mm, horizontal, through-hole, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf
+TRS audio jack horizontal
 0
-56
-56
-Spectrum
-ZX_Bus_Edge_Connector
-
-
-0
-54
-54
-Spectrum
+3
+3
+Mod
 ZX_MD_Edge_Connector
 ZX_MD_Edge_Connector
 
