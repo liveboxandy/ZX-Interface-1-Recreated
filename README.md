@@ -20,4 +20,4 @@ The bom/ibom.html is an interactive BOM that will show component position as wel
 
 Have fun.
 
-Comments - Good Bad or indifferent on https://www.facebook.com/groups/zxspa/
+Comments - Good Bad or totally indifferent on https://www.facebook.com/groups/zxspa/
